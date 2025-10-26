@@ -62,10 +62,5 @@ visually pleasing dashboard.
 
 ---
 
-# Created by Summarizers Group
+# Created by [Rohan Thapa](https://github.com/Rohan-Thapa)
 
-### Members
-
-- [Praagya Parajuli](https://github.com/praagyap)
-- [Rajendra Khanal](https://github.com/Rajendrakhanal)
-- [Rohan Thapa](https://github.com/Rohan-Thapa)
